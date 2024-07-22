@@ -42,3 +42,18 @@ h1 {
 .card img {
   width: 100%;
 }
+
+.card_content {
+  color: #fff;
+}
+
+.card_content p {
+  font-size: 14px;
+  padding: 6px 8px;
+}
+
+/* Utility class */
+.country {
+  text-align: center;
+  margin-top: 10px;
+}
