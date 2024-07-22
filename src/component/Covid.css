@@ -26,39 +26,3 @@ input {
   font-size: 16px;
 }
 
-h1 {
-  text-align: center;
-  color: #fff;
-}
-
-.card {
-  width: 350px;
-  height: 400px;
-  margin: 10px 20px;
-  border: 1px solid gray;
-  border-radius: 5px;
-  /* background-color: white; */
-}
-/* 
-.card .flag {
-  text-align: center;
-} */
-
-.card .flag img {
-  width: 100%;
-}
-
-.card_content {
-  color: #fff;
-}
-
-.card_content p {
-  font-size: 14px;
-  padding: 6px 8px;
-}
-
-/* Utility class */
-.country {
-  text-align: center;
-  margin-top: 10px;
-}
