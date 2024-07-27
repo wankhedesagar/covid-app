@@ -15,7 +15,7 @@ body {
 }
 input {
   position: absolute;
-  top: 50px;
+  top: 15px;
   padding: 6px 14px;
   outline: none;
   width: 300px;
@@ -32,24 +32,17 @@ h1 {
 }
 
 .card {
+  color: white;
   width: 350px;
-  height: 400px;
+  height: 200px;
   margin: 10px 20px;
   border: 1px solid gray;
   border-radius: 5px;
+  padding: 10px;
 }
 
-.card img {
-  width: 100%;
-}
-
-.card_content {
-  color: #fff;
-}
-
-.card_content p {
-  font-size: 14px;
-  padding: 6px 8px;
+p {
+  margin-top: 10px;
 }
 
 /* Utility class */
